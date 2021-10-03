@@ -1,0 +1,14 @@
+
+run
+-ifmt VHDL
+-ent vramZXdist_exdes 
+-p xc6slx9-tqg144-3
+-ifn xst.prj
+-write_timing_constraints No
+-iobuf YES
+-max_fanout 100
+-ofn vramZXdist_exdes 
+-ofmt NGC
+-bus_delimiter ()
+-hierarchy_separator /
+-case Maintain
