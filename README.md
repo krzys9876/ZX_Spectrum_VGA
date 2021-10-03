@@ -1,5 +1,5 @@
 # ZX_Spectrum_FPGA
-VGA interface for ZX Spectrum replica. A dump of the Xilinx ISE project.
+VGA interface for ZX Spectrum replica. A dump of the Xilinx ISE project, pure Verilog.
 
 The VGA interface consists of two logical modules:
 1. Repliator of ZX Spectrum graphics RAM area
